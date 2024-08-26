@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+    background: darkslategray;
+}
+
+.greeting {
+    width: fit-content;
+    text-align: center;
+    text-decoration: underline;
+    color: white;
+    background: gray;
+
+}
